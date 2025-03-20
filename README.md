@@ -3,7 +3,7 @@ Here's a draft README file for your flight price prediction model hosted on Stre
 
 **Flight Price Prediction Model**
 
-[[Link to Streamlit app here]](https://flight-price-prediction-fw2e.onrender.com/)
+[To view the website click here](https://flight-price-prediction-fw2e.onrender.com/)
 
 This repository contains a machine learning model for predicting flight prices. The model is built using Linear Regression and deployed as a web application using Streamlit.
 
